@@ -2,7 +2,7 @@
 ## 已撰寫列表
 [各縣市最高峰](county-high-points.md)
 
-各鄉鎮市區最高峰：[臺北市](taipei-city.md) [新北市](new-taipei-city.md) [基隆市](keelung-city.md) [宜蘭縣](yilan-county.md) [桃園市](taoyuan-city.md)
+各鄉鎮市區最高峰：[臺北市](taipei-city.md) [新北市](new-taipei-city.md) [基隆市](keelung-city.md) [宜蘭縣](yilan-county.md) [桃園市](taoyuan-city.md) [新竹縣市](hsinchu.md) [苗栗縣](miaoli-county.md) [臺中市](taichung-city.md)
 ## 研究動機
 我到台灣的每個縣市旅遊、工作或定居，都會對該區的地理、歷史產生興趣，且因為平常偶爾也會爬小百岳和郊山，於是衍生出這個計畫。網路上找到的各行政區最高峰，多半不是資料不齊全(例如只有部分縣市)，就是資料有誤。因此打算藉由此計畫，將台灣368鄉鎮的最高峰都找出來。
 ## 研究方法
